@@ -1,0 +1,22 @@
+{
+  "name": "js-constructors-extended-session",
+  "version": "1.0.0",
+  "description": "A js constructor extended session for the coding boot camp at UCSD",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Travo100/js-constructors-extended-session.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Travo100/js-constructors-extended-session/issues"
+  },
+  "homepage": "https://github.com/Travo100/js-constructors-extended-session#readme",
+  "dependencies": {
+    "inquirer": "^6.2.1"
+  }
+}
